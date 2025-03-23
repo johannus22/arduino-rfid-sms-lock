@@ -64,6 +64,8 @@ void updateSerial() {
   }
 }
 
+
+//loop main method
 void loop() {
   lcd.setCursor(0, 0);
   lcd.print("   OTP Based");
